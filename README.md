@@ -54,3 +54,5 @@ If main link fails:
 ---
 
 *Note: Information provided for educational purposes.*
+
+Update: Corrected broken reference links in README
