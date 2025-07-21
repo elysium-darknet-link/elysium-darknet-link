@@ -77,4 +77,6 @@ If main link fails:
 
 
 
-Update:  07/18/2025 14-52-12 Contact URLs
+
+
+Update:  21.07.2025 21:51:22 url is back up and accessible
