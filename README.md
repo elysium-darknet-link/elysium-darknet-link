@@ -85,4 +85,6 @@ If main link fails:
 
 
 
-Update:  13 August 2025
+
+
+Update:  19.08.2025 Internal navigation
